@@ -48,7 +48,7 @@ class RestaurantTest {
         //WRITE UNIT TEST CASE HERE
 
     }
-   /* @Test
+    @Test
     public void verify_added_items_total_items(){
 
         List<Item> itemsSelected = new ArrayList<>();
@@ -58,7 +58,7 @@ class RestaurantTest {
         assertEquals(119,restaurant.total_order_value(itemsSelected));
     }
 
-    */
+
 
     //<<<<<<<<<<<<<<<<<<<<<<<<<OPEN/CLOSED>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
