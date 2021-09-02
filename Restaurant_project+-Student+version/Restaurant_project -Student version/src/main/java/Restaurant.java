@@ -69,7 +69,7 @@ public class Restaurant {
     }
 
     public int total_order_value(List<Item> items_selected) {
-       /* int orderValue = 0;
+       int orderValue = 0;
         for(Item dish : items_selected)
         {
             orderValue = orderValue + dish.getPrice();
@@ -78,13 +78,13 @@ public class Restaurant {
 
         return orderValue;
     }
-    
-        */
 
 
-        return 0;
+
+
+
 }
-}
+
 
 
 
